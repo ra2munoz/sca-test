@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="sca94-ga64-8-219-4" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+{% include feature/nav-menu.html sections="About CollectionBuilder CSV" %}
 
 
 ## SCA test exhibit
@@ -25,30 +25,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aliquam tempor ips
 
 {% include feature/audio.html objectid="https://digital.library.uwaterloo.ca/islandora/object/uwdl%3A846a2bd2-ffc7-47d5-a8a1-0617b210c9a5/datastream/OBJ/view" %}
 
+
 In this example, the transcript that follows was copy-pasted onto the `About.md` file:
 
 00:00:07.000 --> 00:01:20.000
-<v Anne>
 It is August 11th, 2022. This is an interview with Aaron Francis for the Oral History Hub Pilot project. The interviewer is Anne Millar. 
 
 00:01:20.000 --> 00:01:20.000
-<v Aaron>
 Good afternoon. 
 
 00:01:20.000 --> 00:01:20.000
-<v Aaron>
 Good afternoon. 
 
 00:01:22.000 --> 00:01:24.000
-<v Aaron>
 I'm good. How are you doing? 
 
 00:01:24.000 --> 00:01:27.000
-<v Anne>
 Good. Thank you. Thank you so much for speaking with me today. 
 
 00:01:27.000 --> 00:01:31.000
-<v Aaron>
 My pleasure. Thank you for the opportunity. 
 
 00:01:31.000 --> 00:01:36.000
